@@ -1,2 +1,2 @@
-# 90s-hacker-culture
-A 1990s-style website exploring Kevin Mitnick’s story and how digital curiosity became criminalized in early internet culture.
+# 90s Hacker Culture
+This project recreates a 1990s-style website exploring the story of Kevin Mitnick and the rise of hacker culture during the early internet era. It examines how curiosity and technological exploration came to be viewed as threats, and how media fear shaped public perception of hacking. The design captures the retro aesthetic of 90s web pages while connecting Mitnick’s legacy to modern ideas about cybersecurity and digital freedom.

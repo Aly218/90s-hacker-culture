@@ -60,11 +60,44 @@ p {
     margin-bottom: 20px;
 }
 
+ol {
+    padding-left: 20px;
+}
+
 li {
     color: #d80572;
+    word-break: break-word;
+    overflow-wrap: anywhere;
+    line-height: 1.6;
 }
 
 .red {
     color: #e21009;
 }
 
+@media (max-width: 600px) {
+    main {
+        max-width: 100%;
+        padding: 12px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    h1 {
+        font-size: 2rem;
+        margin-bottom: 25px;
+    }
+
+    h2 {
+        font-size: 1.3rem;
+        margin-top: 30px;
+    }
+
+    h3 {
+        font-size: 1.1rem;
+    }
+
+    p, li {
+        font-size: 0.95rem;
+    }
+}

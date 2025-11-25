@@ -60,19 +60,8 @@ p {
     margin-bottom: 20px;
 }
 
-.references{
-    width: 100%;
-}
-
-ol {
-    padding-left: 20px;
-}
-
 li {
     color: #d80572;
-    word-break: break-word;
-    overflow-wrap: anywhere;
-    line-height: 1.6;
 }
 
 .red {

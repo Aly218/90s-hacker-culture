@@ -17,7 +17,8 @@ main {
     align-items: center;
     max-width: 950px;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     padding: 20px;
     background: rgba(0, 0, 0, 0.8);
     border-radius: 8px;
@@ -30,6 +31,7 @@ h1 {
     font-size: 2.7rem;
     margin-bottom: 40px;
     text-shadow: 0 0 8px rgba(177, 0, 255, 0.6);
+    text-transform: uppercase;
 }
 h2 {
     color: rgb(27, 161, 27);
@@ -38,6 +40,17 @@ h2 {
     margin-bottom: 15px;
     border-bottom: 1px solid rgb(27, 161, 27);
     padding-bottom: 5px;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: #d80572;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    border-bottom: none;
+    display: inline-block;
+    padding-right: 20px;
+    border-bottom: 1px solid #1409e2;
 }
 
 p {
@@ -48,7 +61,7 @@ p {
 }
 
 li {
-    color: #e21009;
+    color: #d80572;
 }
 
 .red {

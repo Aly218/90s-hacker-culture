@@ -22,7 +22,7 @@ main {
     padding: 20px;
     background: rgba(0, 0, 0, 0.8);
     border-radius: 8px;
-    box-shadow: 0 0 20px rgba(0, 255, 0, 0.2);
+    box-shadow: 0 0 20px #b100ff;
 }
 
 h1 {
@@ -73,8 +73,7 @@ li {
     main {
         max-width: 100%;
         padding: 20px;
-        margin-top: 20px;
-        margin-bottom: 20px;
+        margin: 20px;
     }
 
     h1 {

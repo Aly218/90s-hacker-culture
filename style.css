@@ -1,0 +1,56 @@
+body {
+    font-family: "Cascadia Code", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 1.6;
+    background-color: black;
+    background-image:
+        linear-gradient(rgba(0, 255, 0, 0.15) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 255, 0, 0.15) 1px, transparent 1px);
+    background-size: 40px 40px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 950px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.2);
+}
+
+h1 {
+    text-align: center;
+    color: #b100ff;
+    font-size: 2.7rem;
+    margin-bottom: 40px;
+    text-shadow: 0 0 8px rgba(177, 0, 255, 0.6);
+}
+h2 {
+    color: rgb(27, 161, 27);
+    font-size: 1.7rem;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid rgb(27, 161, 27);
+    padding-bottom: 5px;
+}
+
+p {
+    color: #d1cece;
+    line-height: 1.7;
+    font-size: 1.05rem;
+    margin-bottom: 20px;
+}
+
+li {
+    color: #e21009;
+}
+
+.red {
+    color: #e21009;
+}

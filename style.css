@@ -60,6 +60,10 @@ p {
     margin-bottom: 20px;
 }
 
+.references{
+    width: 100%;
+}
+
 ol {
     padding-left: 20px;
 }
